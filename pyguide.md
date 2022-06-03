@@ -1656,7 +1656,7 @@ No:  if (x):
 <a id="indentation"></a>
 ### 3.4 Indentation 
 
-Indent your code blocks with *4 spaces*.
+Indent your code blocks with *2 spaces*.
 
 Never use tabs or mix tabs and spaces. In cases of implied line continuation,
 you should align wrapped elements either vertically, as per the examples in the
